@@ -1,5 +1,6 @@
 # Spoj-fast-submission
 Python 3.6
+
 Requirements :
         import MechanicalSoup
         import sys
