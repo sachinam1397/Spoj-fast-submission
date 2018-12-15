@@ -1,0 +1,15 @@
+Install MechanicalSoup:
+
+        pip install MechanicalSoup
+        
+        pip install git+https://github.com/MechanicalSoup/MechanicalSoup
+
+Install Virtual Environment:
+
+        sudo apt-get install python3-pip
+        
+        sudo pip3 install virtualenv 
+        
+        virtualenv venv 
+        
+        
