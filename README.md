@@ -7,7 +7,7 @@ Requirements :
         
         import sys
         
-        import arg[arse
+        import argparse
         
         from time import sleep
 
